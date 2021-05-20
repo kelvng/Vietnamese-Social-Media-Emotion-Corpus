@@ -1,5 +1,5 @@
 
-# `Sentiment Analysis with Attention`
+# `Sentiment Analysis with LSTM+Attention`
 
 ## Task 1. Collecting data
 Choosing three Vietnamese videos on YouTube with at least 100 comments. Crawling 
